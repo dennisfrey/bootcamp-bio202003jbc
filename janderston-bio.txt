@@ -7,3 +7,5 @@ Experienced software instructor with deep knowledge of the folling software prod
  + Microsoft C# .Net
  + Git & Github.
  + Awesome CSS Design Skills!
+ + Angular
+ + TypeScript
